@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Codwears badge](https://www.codewars.com/users/nikitsinaNatalia/badges/small)](https://www.codewars.com/users/nikitsinaNatalia)
 
 <!--
 **NataliaNikitsina/NataliaNikitsina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
